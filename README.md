@@ -4,6 +4,15 @@
 **[Hourly energy demand generation and weather | ENTSOE & REE](https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather)**</br>
 The dataset includes hourly data on Energy Generation, Consumption, Pricing, and Weather from 2015 to 2018.
 
+| Feature-type | Column |
+| :----------  | :-----------  |
+| Date         | time          |
+| Energy       | generation biomass, generation fossil gas, generation nuclear, ...|
+| Weather      | temp, pressure, humidity, wind_speed, weather_description, ...|
+| Forecast     | total load forecast, price day ahead, ...|
+| Target       | price_actual, total load actual |
+
+
 ## Overview
 • The project focuses on forecasting electrical prices in the energy market for Spain, leveraging Machine Learning techniques.</br>
 • With the goal of predicting electrical prices based on generation, consumption, and weather data, the project explores the influence of different features on electrical prices.</br>
