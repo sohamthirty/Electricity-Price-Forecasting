@@ -45,7 +45,8 @@ The dataset includes hourly data on Energy Generation, Consumption, Pricing, and
 ► wrt price as target,</br>
 strong +ve correlation for price day ahead, total load actual, total load forecast, generation fossil gas, generation fossil hard coal.</br>
 strong -ve correlation for generation hydro pumped storage consumption, generation wind offshore, forecast wind offshore day ahaead.</br>
-- ![image](https://github.com/sohamthirty/Electricity-Price-Forecasting/assets/56295513/504a1ce8-7a52-48cc-8716-45f06b8a0040)
+- ![image](https://github.com/sohamthirty/Electricity-Price-Forecasting/assets/56295513/96c9f2d2-94d7-4d48-95df-3a4bd4136062)
+
 
 
 ## References
