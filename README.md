@@ -58,6 +58,10 @@ strong -ve correlation for generation hydro pumped storage consumption, generati
 | Lasso              | 9.78| 9.46 | 0.54|
 | Descision Tree     | 1.20| 5.98 | 0.81|
 | Random Forest      | 0.73| 3.91 | 0.92|
+| Light GBM          | | 14.84 | 0.92|
+| XGB          | | 11.21 | 0.94|
+| Cat Boost          | | 7.38 | 0.96|
+
 
 • Random Forest Regressor had the lowest RMSE (3.91) & R2 score (0.92).
 
