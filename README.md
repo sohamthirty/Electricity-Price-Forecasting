@@ -51,13 +51,18 @@ strong -ve correlation for generation hydro pumped storage consumption, generati
 ## Modelling
 ### Traditional ML models:
 
-| Model | RMSE loss |
-| :----------  | :-----------  |
-| Linear             | 9.78|
-| Ridge              | 9.78|
-| Lasso              | 9.78|
-| Descision Tree     | 1.20|
-| Random Forest      | 0.73|
+| Model | RMSE loss | RMSE loss on Avg data | R2-score on Avg data
+| :----------  | :-----------  |:-----------  | :-----------  |
+| Linear             | 9.78| 9.46 | 0.54|
+| Ridge              | 9.78| 9.46 | 0.54|
+| Lasso              | 9.78| 9.46 | 0.54|
+| Descision Tree     | 1.20| 5.98 | 0.81|
+| Random Forest      | 0.73| 3.91 | 0.92|
+
+• Random Forest Regressor had the lowest RMSE (3.91) & R2 score (0.92).
+
+![image](https://github.com/sohamthirty/Electricity-Price-Forecasting/assets/56295513/1cb2bb94-db7f-4054-98ad-48b32e9ee3b5)
+
 
 
 ## References
