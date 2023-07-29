@@ -62,6 +62,8 @@ strong -ve correlation for generation hydro pumped storage consumption, generati
 • Random Forest Regressor had the lowest RMSE (3.91) & R2 score (0.92).
 
 ![image](https://github.com/sohamthirty/Electricity-Price-Forecasting/assets/56295513/1cb2bb94-db7f-4054-98ad-48b32e9ee3b5)
+![image](https://github.com/sohamthirty/Electricity-Price-Forecasting/assets/56295513/0491e185-1f38-4c31-974f-2b20a12379a7)
+
 
 
 
